@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatApplicationDemo</string>
+
+    <string name="dontHaveAnAccount"><u>Dont Have An Account ? Create New</u></string>
+    <string name="AlreadyHaveAnAccount"><u>Already Have An Account ? Login</u></string>
+    <string name="online">online</string>
+</resources>
